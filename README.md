@@ -20,5 +20,5 @@ Numpy, Pandas
 
 ## Test
 
-   The test of the function is attached with a simple sine function (test.py) 
-``` 
+The test of the function is attached with a simple sine function (test.py) 
+
